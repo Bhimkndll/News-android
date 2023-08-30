@@ -57,7 +57,7 @@ The app can be installed and tested in 5 steps:
 
 
 * Front-end: Android(Java)
-* Dependencies: Guardian News API , NYTimes News API, Twitter API, Facebook API, Trending API, Bing Autosuggest API
+* Dependencies:laravel api of news app, NYTimes News API, Twitter API, Facebook API, Trending API, Bing Autosuggest API
 
 ## Contributing to Android-NewsApp
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
@@ -66,12 +66,9 @@ To contribute to Android-NewsApp, follow these steps:
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin https://github.com/Shraddha2104Android-NewsApp`
-5. Create the pull request.
 
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+4. Create the pull request.
 
-***Here is a link to a video showing the complete functioning:*** [https://www.youtube.com/watch?v=RA5mbbbszp0&feature=youtu.be](https://www.youtube.com/watch?v=RA5mbbbszp0&feature=youtu.be) 
 
 ## Anything else?
 
@@ -85,10 +82,8 @@ It's _not_ about:
 
 It _is_ about:
 
-- **Impressive**: People's wows are on record!
-- **Design**: Slick UI!!!
-- **Completion**: No pending functionality, product works!
+
 - **Learning**: GCP, CORS and auth are always tough!
 - **OSS practices**: Plentiful commits, branches, PRs!
 - **Approved tech**: Many projects integrated into one!
-<h3 align="center"><b>Developed by <a href="https://github.com/Shraddha2104">Shraddha Shaligram</a>.</b></h1>
+<h3 align="center"><b>Developed by <a href="https://github.com/Bhim Kandel">bhim Kandel</a>.</b></h1>
