@@ -57,5 +57,5 @@ It _is_ about:
 
 - **OSS practices**: Plentiful commits, branches, PRs!
 - **Approved tech**: Many projects integrated into one!
-<h3 align="center"><b>Developed by <a href="https://github.com/bhimkandel">BHIM Kandel</a>.</b></h1>
+<h3 align="center"><b>Developed by <a href="https://github.com/Bhimkndll">BHIM Kandel</a>.</b></h1>
 >>>>>>> 9fbbb03 (first commit)
