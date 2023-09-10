@@ -44,7 +44,7 @@ This project was completed as a part of my coursework for the course CSCI 571: W
 
 
 * Front-end: Android(Java)
-* Dependencies: Guardian News API , NYTimes News API, Twitter API, Facebook API, Trending API, Bing Autosuggest API
+* Dependencies: News app api(laravel api with jwt token authentication)
 
 
 
